@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FINALDataSet" targetNamespace="http://tempuri.org/FINALDataSet.xsd" xmlns:mstns="http://tempuri.org/FINALDataSet.xsd" xmlns="http://tempuri.org/FINALDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="FINALConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="FINALConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Final_Year_Project__E_Voting_System.Properties.Settings.GlobalReference.Default.FINALConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="candidateTableAdapter" GeneratorDataComponentClassName="candidateTableAdapter" Name="candidate" UserDataComponentName="candidateTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="FINALConnectionString (Settings)" DbObjectName="FINAL.candidate" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `candidate_name` FROM `final`.`candidate`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="candidate_name" DataSetColumn="candidate_name" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="FINALDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="FINALDataSet" msprop:Generator_UserDSName="FINALDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="candidate" msprop:Generator_TableClassName="candidateDataTable" msprop:Generator_TableVarName="tablecandidate" msprop:Generator_TablePropName="candidate" msprop:Generator_RowDeletingName="candidateRowDeleting" msprop:Generator_RowChangingName="candidateRowChanging" msprop:Generator_RowEvHandlerName="candidateRowChangeEventHandler" msprop:Generator_RowDeletedName="candidateRowDeleted" msprop:Generator_UserTableName="candidate" msprop:Generator_RowChangedName="candidateRowChanged" msprop:Generator_RowEvArgName="candidateRowChangeEvent" msprop:Generator_RowClassName="candidateRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="candidate_name" msprop:Generator_ColumnVarNameInTable="columncandidate_name" msprop:Generator_ColumnPropNameInRow="candidate_name" msprop:Generator_ColumnPropNameInTable="candidate_nameColumn" msprop:Generator_UserColumnName="candidate_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

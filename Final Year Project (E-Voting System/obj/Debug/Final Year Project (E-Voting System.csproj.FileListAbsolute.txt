@@ -1,0 +1,19 @@
+c:\users\francis m banda\documents\visual studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\bin\Debug\Final Year Project (E-Voting System.exe.config
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\bin\Debug\Final Year Project (E-Voting System.exe
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\bin\Debug\Final Year Project (E-Voting System.pdb
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\bin\Debug\MySql.Data.dll
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final Year Project (E-Voting System.csprojResolveAssemblyReference.cache
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Add_Candidate.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Add_Voter.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Home.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Login.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Properties.Resources.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final Year Project (E-Voting System.csproj.GenerateResource.Cache
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final Year Project (E-Voting System.exe
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final Year Project (E-Voting System.pdb
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Close_Election.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Election.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.View_Results.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.Voter_authentication.resources
+C:\Users\FRANCIS M BANDA\Documents\Visual Studio 2015\Projects\Final Year Project (E-Voting System\Final Year Project (E-Voting System\obj\Debug\Final_Year_Project__E_Voting_System.View_Results1.resources
